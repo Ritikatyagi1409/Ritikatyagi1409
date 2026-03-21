@@ -14,7 +14,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=RitikaTyagi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/ritikatyagi">
+  <a href="https://www.linkedin.com/in/ritika-tyagi-3b5795257/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -216,7 +216,7 @@ Achievement: 20% API Performance Boost
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/ritikatyagi">
+<a href="https://www.linkedin.com/in/ritika-tyagi-3b5795257/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
