@@ -220,7 +220,7 @@ Achievement: 20% API Performance Boost
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/RitikaTyagi">
+<a href="https://github.com/Ritikatyagi1409">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
