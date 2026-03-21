@@ -9,7 +9,7 @@
 
 <div align="center">
   <p>Welcome to my GitHub profile! I'm a passionate Full Stack Developer with 2+ years of experience specializing in MERN & MEVN stack, real-time communication systems, secure payment integrations, and large-scale automation. I love building scalable platforms and delivering exceptional user experiences.</p>
-  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+  <img alt="Coding Girl" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 </div>
 
 ---
@@ -18,7 +18,7 @@
 
 <p>I'm a Full Stack Developer on a mission to build innovative, scalable, and high-performance web applications. With expertise in both MERN and MEVN stacks, I've delivered platforms that boost API performance, enable real-time communication, and handle large-scale automation across multi-country deployments. I thrive in collaborative, agile environments and am always eager to tackle new challenges.</p>
 
-📍 Ghaziabad, India &nbsp;|&nbsp; 📧 ritikatyagi514@gmail.com &nbsp;|&nbsp; 📞 +91 9548565551
+📍 Ghaziabad, India &nbsp;|&nbsp; 📧 ritikatyagi514@gmail.com
 
 ---
 
