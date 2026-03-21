@@ -21,6 +21,10 @@
   <a href="mailto:ritikatyagi514@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://portfolio21-peach.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-F97316?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Animated Coding Girl GIF -->
