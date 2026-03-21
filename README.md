@@ -24,7 +24,7 @@
 </p>
 
 <!-- Animated Coding Girl GIF -->
-<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGI0MXhpbDcwYjNsaHR0M2ZtbXBrbHI2bGtlY2xndnF0MDZjYm8weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFfmUWVMOyKVG/giphy.gif)" width="380" alt="Coding Animation"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGI0MXhpbDcwYjNsaHR0M2ZtbXBrbHI2bGtlY2xndnF0MDZjYm8weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFfmUWVMOyKVG/giphy.gif" width="380" alt="Coding Animation"/>
 
 </div>
 
