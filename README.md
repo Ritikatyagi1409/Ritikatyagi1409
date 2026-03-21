@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Ritika%20Tyagi&fontSize=50&fontAlignY=33&animation=twinkling" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Ritika%20Tyagi&fontSize=50&fontAlignY=33&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
