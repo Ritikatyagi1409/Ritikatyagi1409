@@ -144,7 +144,7 @@ Achievement: 20% API Performance Boost
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🎓 VediCode — *Full-Stack Learning Platform*
 
@@ -180,8 +180,46 @@ Achievement: 20% API Performance Boost
 
 > Led development of a multi-role platform (Admin, Business, User) with onboarding, course creation & enrollment workflows. Integrated **Stripe** payments & **FCM** real-time notifications.
 
-</div>
+</div> -->
+<div align="center">
 
+### ⚡ LightFlow — *MLM Platform*
+
+[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
+[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](.)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](.)
+[![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)](.)
+[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](.)
+
+> Scaled backend systems supporting **12,500+ users** with optimized APIs, Redis caching & secure payment integrations using **Stripe** and **PayPal**.
+
+---
+
+### ❤️ Relatomy — *SOS Relazioni*
+
+[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
+[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
+[![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](.)
+[![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)](.)
+[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](.)
+
+> Multi-role relationship platform with real-time chat, booking engine & secure payment integrations including **Stripe**, **PayPal**, **Apple Pay**, and **Google Pay**.
+
+---
+
+### 💬 Connectify — *Real-Time Communication Platform*
+
+[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)](.)
+[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
+[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
+
+> Real-time chat platform with live messaging, user presence detection & responsive UI. Implemented **OneSignal** push notifications and smooth full-stack integration.
+
+</div>
 ---
 
 ## 📊 GitHub Stats
