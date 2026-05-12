@@ -221,6 +221,8 @@ Achievement: 20% API Performance Boost
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
