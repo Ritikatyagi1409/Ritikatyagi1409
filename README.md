@@ -220,7 +220,6 @@ Achievement: 20% API Performance Boost
 > Real-time chat platform with live messaging, user presence detection & responsive UI. Implemented **OneSignal** push notifications and smooth full-stack integration.
 
 </div>
----
 
 ## 📊 GitHub Stats
 
