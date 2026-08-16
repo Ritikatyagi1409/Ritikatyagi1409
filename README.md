@@ -1,33 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:042f2e,50:0d9488,100:0f172a&text=Ritika%20Tyagi&fontColor=FBBF24&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20MEVN%20Architect&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0A0E27,50:1B1464,100:0A0E27&text=Ritika%20Tyagi&fontColor=00F0FF&fontSize=58&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20MEVN%20Architect&descSize=19&descAlignY=58&animation=twinkling"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+Scalable+Real-Time+Systems;%F0%9F%92%B3+Payment+%26+Fintech+Integration+Expert;%E2%9A%A1+MERN+%2F+MEVN+Stack+Specialist;%F0%9F%8C%90+Powering+Platforms+for+12%2C500%2B+Users;%E2%9C%A8+2%2B+Years+of+Shipping+Production+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=FF2E9A&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+Scalable+Real-Time+Systems;%F0%9F%92%B3+Payment+%26+Fintech+Integration+Expert;%E2%9A%A1+MERN+%2F+MEVN+Stack+Specialist;%F0%9F%8C%90+Powering+Platforms+for+12%2C500%2B+Users;%E2%9C%A8+2%2B+Years+of+Shipping+Production+Code" alt="Typing SVG"/>
 </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="320"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-open%20to%20work-0D9488?style=for-the-badge&labelColor=042f2e"/>
-<img src="https://img.shields.io/badge/based%20in-Ghaziabad%2C%20India-FBBF24?style=for-the-badge&labelColor=042f2e"/>
-<img src="https://img.shields.io/badge/experience-2%2B%20years-2DD4BF?style=for-the-badge&labelColor=042f2e"/>
+<img src="https://img.shields.io/badge/status-open%20to%20work-00F0FF?style=for-the-badge&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/based%20in-Ghaziabad%2C%20India-FF2E9A?style=for-the-badge&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/experience-2%2B%20years-39FF14?style=for-the-badge&labelColor=0A0E27"/>
 
 <br/><br/>
 
-<a href="mailto:ritikatyagi514@gmail.com"><img src="https://img.shields.io/badge/Gmail-042f2e?style=for-the-badge&logo=gmail&logoColor=FBBF24"/></a>
-<a href="https://www.linkedin.com/in/ritika-tyagi-3b5795257/"><img src="https://img.shields.io/badge/LinkedIn-042f2e?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
-<a href="https://github.com/Ritikatyagi1409"><img src="https://img.shields.io/badge/GitHub-042f2e?style=for-the-badge&logo=github&logoColor=FBBF24"/></a>
-<a href="https://portfolio21-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-042f2e?style=for-the-badge&logo=firefox&logoColor=2DD4BF"/></a>
+<a href="mailto:ritikatyagi514@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0E27?style=for-the-badge&logo=gmail&logoColor=00F0FF"/></a>
+<a href="https://www.linkedin.com/in/ritika-tyagi-3b5795257/"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=FF2E9A"/></a>
+<a href="https://github.com/Ritikatyagi1409"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
+<a href="https://portfolio21-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=firefox&logoColor=00F0FF"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042f2e,100:0d9488&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:FF2E9A,100:0A0E27&height=3&width=100%"/>
 
-## 🌊 About Me
+## 🌌 About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 whoami:
@@ -54,25 +56,29 @@ whoami:
 ```
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaTyagi&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=true&bg_color=042f2e&title_color=FBBF24&text_color=2DD4BF" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RitikaTyagi&show_icons=true&hide_border=true&bg_color=042f2e&title_color=FBBF24&text_color=2DD4BF&icon_color=10B981&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaTyagi&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=true&bg_color=0A0E27&title_color=00F0FF&text_color=FF2E9A" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d9488,100:042f2e&height=3&width=100%"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RitikaTyagi&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=00F0FF&text_color=E0E0FF&icon_color=39FF14&include_all_commits=true&count_private=true" width="65%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00F0FF,100:0A0E27&height=3&width=100%"/>
 
 ## 🧭 Career Timeline
 
 <table>
 <tr>
-<td width="6%" align="center">🟢</td>
+<td width="6%" align="center">🟣</td>
 <td width="94%">
 
 **Full Stack Developer** · Huulke Technologies India Pvt. Ltd.
@@ -86,9 +92,9 @@ Building a full-stack **education platform** on **Vue 3, Node.js, MongoDB, Tailw
 
 </td>
 </tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:134e4a,100:042f2e&height=2&width=100%"/></td></tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1464,100:0A0E27&height=2&width=100%"/></td></tr>
 <tr>
-<td align="center">🟡</td>
+<td align="center">🔵</td>
 <td>
 
 **Software Developer** · Srishtitech Technology
@@ -102,9 +108,9 @@ Owned task planning, prioritization, and team coordination inside an **Agile/Scr
 
 </td>
 </tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:134e4a,100:042f2e&height=2&width=100%"/></td></tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1464,100:0A0E27&height=2&width=100%"/></td></tr>
 <tr>
-<td align="center">🔵</td>
+<td align="center">🟢</td>
 <td>
 
 **Full Stack Developer Intern** · ICT Academy
@@ -120,7 +126,7 @@ Contributed to **React.js** feature implementations and core software developmen
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042f2e,100:0d9488&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:FF2E9A,100:0A0E27&height=3&width=100%"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -128,44 +134,44 @@ Contributed to **React.js** feature implementations and core software developmen
 
 **`Languages & Markup`**
 <br/>
-<img src="https://img.shields.io/badge/JavaScript-042f2e?style=for-the-badge&logo=javascript&logoColor=FBBF24"/>
-<img src="https://img.shields.io/badge/HTML5-042f2e?style=for-the-badge&logo=html5&logoColor=2DD4BF"/>
-<img src="https://img.shields.io/badge/CSS3-042f2e?style=for-the-badge&logo=css3&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/HTML5-0A0E27?style=for-the-badge&logo=html5&logoColor=FF2E9A"/>
+<img src="https://img.shields.io/badge/CSS3-0A0E27?style=for-the-badge&logo=css3&logoColor=39FF14"/>
 
 **`Frontend Craft`**
 <br/>
-<img src="https://img.shields.io/badge/React-042f2e?style=for-the-badge&logo=react&logoColor=2DD4BF"/>
-<img src="https://img.shields.io/badge/Vue.js-042f2e?style=for-the-badge&logo=vuedotjs&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-042f2e?style=for-the-badge&logo=tailwind-css&logoColor=2DD4BF"/>
-<img src="https://img.shields.io/badge/Material_UI-042f2e?style=for-the-badge&logo=mui&logoColor=FBBF24"/>
+<img src="https://img.shields.io/badge/React-0A0E27?style=for-the-badge&logo=react&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Vue.js-0A0E27?style=for-the-badge&logo=vuedotjs&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0A0E27?style=for-the-badge&logo=tailwind-css&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Material_UI-0A0E27?style=for-the-badge&logo=mui&logoColor=FF2E9A"/>
 
 **`Backend & Data`**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-042f2e?style=for-the-badge&logo=node.js&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Express.js-042f2e?style=for-the-badge&logo=express&logoColor=2DD4BF"/>
-<img src="https://img.shields.io/badge/MongoDB-042f2e?style=for-the-badge&logo=mongodb&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Node.js-0A0E27?style=for-the-badge&logo=node.js&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Express.js-0A0E27?style=for-the-badge&logo=express&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/MongoDB-0A0E27?style=for-the-badge&logo=mongodb&logoColor=39FF14"/>
 
 **`Integrations & Platforms`**
 <br/>
-<img src="https://img.shields.io/badge/Stripe-042f2e?style=for-the-badge&logo=stripe&logoColor=FBBF24"/>
-<img src="https://img.shields.io/badge/Razorpay-042f2e?style=for-the-badge&logo=razorpay&logoColor=2DD4BF"/>
-<img src="https://img.shields.io/badge/Firebase-042f2e?style=for-the-badge&logo=firebase&logoColor=FBBF24"/>
-<img src="https://img.shields.io/badge/Socket.io-042f2e?style=for-the-badge&logo=socket.io&logoColor=2DD4BF"/>
-<img src="https://img.shields.io/badge/Cloudinary-042f2e?style=for-the-badge&logo=cloudinary&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Puppeteer-042f2e?style=for-the-badge&logo=puppeteer&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Stripe-0A0E27?style=for-the-badge&logo=stripe&logoColor=FF2E9A"/>
+<img src="https://img.shields.io/badge/Razorpay-0A0E27?style=for-the-badge&logo=razorpay&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Firebase-0A0E27?style=for-the-badge&logo=firebase&logoColor=FF2E9A"/>
+<img src="https://img.shields.io/badge/Socket.io-0A0E27?style=for-the-badge&logo=socket.io&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Cloudinary-0A0E27?style=for-the-badge&logo=cloudinary&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Puppeteer-0A0E27?style=for-the-badge&logo=puppeteer&logoColor=00F0FF"/>
 
 **`Tooling & Workflow`**
 <br/>
-<img src="https://img.shields.io/badge/Git-042f2e?style=for-the-badge&logo=git&logoColor=FBBF24"/>
-<img src="https://img.shields.io/badge/GitHub-042f2e?style=for-the-badge&logo=github&logoColor=2DD4BF"/>
-<img src="https://img.shields.io/badge/Bitbucket-042f2e?style=for-the-badge&logo=bitbucket&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Postman-042f2e?style=for-the-badge&logo=postman&logoColor=FBBF24"/>
-<img src="https://img.shields.io/badge/Swagger-042f2e?style=for-the-badge&logo=swagger&logoColor=2DD4BF"/>
-<img src="https://img.shields.io/badge/Agile%2FScrum-042f2e?style=for-the-badge&logo=jira&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=FF2E9A"/>
+<img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Bitbucket-0A0E27?style=for-the-badge&logo=bitbucket&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Postman-0A0E27?style=for-the-badge&logo=postman&logoColor=FF2E9A"/>
+<img src="https://img.shields.io/badge/Swagger-0A0E27?style=for-the-badge&logo=swagger&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Agile%2FScrum-0A0E27?style=for-the-badge&logo=jira&logoColor=00F0FF"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d9488,100:042f2e&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00F0FF,100:0A0E27&height=3&width=100%"/>
 
 ## 🚀 Featured Builds
 
@@ -216,45 +222,43 @@ Contributed to **React.js** feature implementations and core software developmen
 
 <div align="center"><i>Explore more on my <a href="https://github.com/Ritikatyagi1409">GitHub</a> or check live work on my <a href="https://portfolio21-peach.vercel.app/">Portfolio</a>.</i></div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042f2e,100:0d9488&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:FF2E9A,100:0A0E27&height=3&width=100%"/>
 
 ## 📊 GitHub Pulse
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikaTyagi&hide_border=true&background=042f2e&ring=10B981&fire=FBBF24&currStreakLabel=2DD4BF&sideLabels=2DD4BF&currStreakNum=FBBF24&sideNums=FBBF24&dates=6b8f8a" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=RitikaTyagi&hide_border=true&background=0A0E27&ring=00F0FF&fire=FF2E9A&currStreakLabel=39FF14&sideLabels=E0E0FF&currStreakNum=FF2E9A&sideNums=00F0FF&dates=8888AA" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaTyagi&bg_color=042f2e&color=2DD4BF&line=10B981&point=FBBF24&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaTyagi&bg_color=0A0E27&color=00F0FF&line=FF2E9A&point=39FF14&hide_border=true&area=true" width="95%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d9488,100:042f2e&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00F0FF,100:0A0E27&height=3&width=100%"/>
 
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RitikaTyagi&theme=algolia&no-frame=true&column=6&margin-w=6&margin-h=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RitikaTyagi&theme=dracula&no-frame=true&column=6&margin-w=6&margin-h=6"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042f2e,100:0d9488&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:FF2E9A,100:0A0E27&height=3&width=100%"/>
 
 <div align="center">
 
 ## 💌 Let's Build Something
 
-<a href="mailto:ritikatyagi514@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-042f2e?style=for-the-badge&logo=gmail&logoColor=FBBF24"/></a>
-<a href="https://www.linkedin.com/in/ritika-tyagi-3b5795257/"><img src="https://img.shields.io/badge/Let's%20Connect-042f2e?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
-<a href="https://portfolio21-peach.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-042f2e?style=for-the-badge&logo=firefox&logoColor=10B981"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200"/>
+
+<a href="mailto:ritikatyagi514@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-0A0E27?style=for-the-badge&logo=gmail&logoColor=00F0FF"/></a>
+<a href="https://www.linkedin.com/in/ritika-tyagi-3b5795257/"><img src="https://img.shields.io/badge/Let's%20Connect-0A0E27?style=for-the-badge&logo=linkedin&logoColor=FF2E9A"/></a>
+<a href="https://portfolio21-peach.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-0A0E27?style=for-the-badge&logo=firefox&logoColor=39FF14"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RitikaTyagi&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS&labelColor=042f2e"/>
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder&color=042f2e&layout=compact" alt="Dev Joke"/>
+<img src="https://komarev.com/ghpvc/?username=RitikaTyagi&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0A0E27"/>
 
 <br/><br/>
 
@@ -262,6 +266,6 @@ Contributed to **React.js** feature implementations and core software developmen
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,50:0d9488,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B1464,100:0A0E27&height=120&section=footer"/>
 
 </div>
